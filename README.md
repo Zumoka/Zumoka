@@ -6,5 +6,12 @@
 * A discord bot.
 * A site.
 * And i'm learning Kotlin.
+> # 🍪 I'm learning...
+* HTML
+* CSS
+* Java
+* JavaScript (JS)
+* Phyton
+* Kotlin
 > # 📩 Contact me
 * If you want to contact me, please view my site <a href="zumoka.github.io">clicking here</a> and see how you can find me and talk to me.
